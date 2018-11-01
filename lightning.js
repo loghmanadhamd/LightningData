@@ -12,7 +12,8 @@ http://www.d3noob.org/2013/01/adding-tooltips-to-d3js-graph.html
 Mike Bostock, Pie Chart Legend
 http://bl.ocks.org/mbostock/3888852  */
 
-		
+//TEST COMMENT FOR LIGHTNING JS
+	
 //Width and height of map
 var width = 960;
 var height = 500;
