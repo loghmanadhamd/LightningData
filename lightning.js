@@ -13,6 +13,8 @@ Mike Bostock, Pie Chart Legend
 http://bl.ocks.org/mbostock/3888852  */
 
 //TEST COMMENT FOR LIGHTNING JS
+
+//another test comment for lightning js
 	
 //Width and height of map
 var width = 960;
